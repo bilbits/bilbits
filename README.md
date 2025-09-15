@@ -14,6 +14,6 @@
   - Hardware/software co-design for real-world embedded systems  
 
 📫 **Connect with me:**  
-[LinkedIn]([https://www.linkedin.com/in/bilal-ameerdeen-1211321b9]) | [Email](mailto:Bilalameerdeen10@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/bilal-ameerdeen-1211321b9) | [Email](mailto:Bilalameerdeen10@gmail.com)  
 
 ---

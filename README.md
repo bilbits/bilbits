@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">🔌 **Electrical Engineer | R&D in Electronics | FPGA & Digital Systems | Power Systems & Analog Circuits | Embedded & Low-Level Programming**</h3>
+<h3 align="center">🔌 **Electrical Engineer | R&D in Electronics | FPGA & Digital Systems | Embedded & Low-Level Programming**</h3>
 
 - 🎓 **Electrical Engineering Graduate** (Lakehead University)  
 - 💻 Currently working as a **Junior Electronics Engineer (R&D) @ Digital Shovel**, developing **high-efficiency power electronics, PCB design, and embedded control** for crypto mining solutions, data centers and AI servers.  
-- ⚡ Passionate about **FPGA Design & ASIC Design (Verilog/VHDL, ModelSim)**, **Asynchronous Design**, and **Mixed Signal Design**.  
+- ⚡ Passionate about **FPGA Design & ASIC Design (Verilog/VHDL, ModelSim)** and **Mixed Signal Design**.  
 - 📡 Experienced in **Power Systems, Electronics & Analog Circuit Design**:  
-  - High-efficiency converters, renewable energy integration, and system-level protection/coordination  
   - Low-level C programming for ADC/DAC drivers, multiplexers, and peripheral interfaces on ARM-based microcontrollers (Toshiba, STM32)  
 - 🔬 R&D Focus:  
   - Low-latency digital hardware for networking & trading systems  

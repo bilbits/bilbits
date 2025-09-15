@@ -1,6 +1,5 @@
-## Hi there 👋 I'm Bilal  
-
-🔌 **Electrical Engineer | R&D in Electronics | FPGA & Digital Systems | Power Systems & Analog Circuits | Embedded & Low-Level Programming**  
+<h1 align="center">Hi 👋, I'm Bilal</h1>
+<h3 align="center">🔌 **Electrical Engineer | R&D in Electronics | FPGA & Digital Systems | Power Systems & Analog Circuits | Embedded & Low-Level Programming**</h3>
 
 - 🎓 **Electrical Engineering Graduate** (Lakehead University)  
 - 💻 Currently working as a **Junior Electronics Engineer (R&D) @ Digital Shovel**, developing **high-efficiency power electronics, PCB design, and embedded control** for crypto mining solutions, data centers and AI servers.  
@@ -17,8 +16,7 @@
 [LinkedIn](https://www.linkedin.com/in/bilal-ameerdeen-1211321b9) | [Email](mailto:Bilalameerdeen10@gmail.com)  
 
 ---
-<h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">🔌 **Electrical Engineer | R&D in Electronics | FPGA & Digital Systems | Power Systems & Analog Circuits | Embedded & Low-Level Programming**</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

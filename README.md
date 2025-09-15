@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Bilal  
 
-<!--
-**bilbits/bilbits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔌 **Electrical Engineer | R&D in Electronics | FPGA & Digital Systems | Power Systems & Analog Circuits | Embedded & Low-Level Programming**  
 
-Here are some ideas to get you started:
+- 🎓 **Electrical Engineering Graduate** (Lakehead University)  
+- 💻 Currently working as a **Junior Electronics Engineer (R&D) @ Digital Shovel**, developing **high-efficiency power electronics, PCB design, and embedded control** for crypto mining solutions, data centers and AI servers.  
+- ⚡ Passionate about **FPGA Design & ASIC Design (Verilog/VHDL, ModelSim)**, **Asynchronous Design**, and **Mixed Signal Design**.  
+- 📡 Experienced in **Power Systems, Electronics & Analog Circuit Design**:  
+  - High-efficiency converters, renewable energy integration, and system-level protection/coordination  
+  - Low-level C programming for ADC/DAC drivers, multiplexers, and peripheral interfaces on ARM-based microcontrollers (Toshiba, STM32)  
+- 🔬 R&D Focus:  
+  - Low-latency digital hardware for networking & trading systems  
+  - FPGA/ASIC prototyping and RTL verification  
+  - Hardware/software co-design for real-world embedded systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:**  
+[LinkedIn]([https://www.linkedin.com/in/bilal-ameerdeen-1211321b9]) | [Email](mailto:Bilalameerdeen10@gmail.com)  
+
+---

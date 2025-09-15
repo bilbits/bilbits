@@ -11,13 +11,9 @@
   - FPGA/ASIC prototyping and RTL verification  
   - Hardware/software co-design for real-world embedded systems  
 
-📫 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bilalameerdeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilalameerdeen" height="30" width="40" /></a>
-[Email](mailto:Bilalameerdeen10@gmail.com)  
+<a href="https://linkedin.com/in/bilalameerdeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilalameerdeen" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

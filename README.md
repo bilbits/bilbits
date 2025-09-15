@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">🔌 **Electrical Engineer | R&D in Electronics | FPGA & Digital Systems | Embedded & Low-Level Programming**</h3>
+<h3 align="center">🔌 Electrical Engineer | R&D in Electronics | FPGA & Digital Systems | Embedded & Low-Level Programming</h3>
 
 - 🎓 **Electrical Engineering Graduate** (Lakehead University)  
 - 💻 Currently working as a **Junior Electronics Engineer (R&D) @ Digital Shovel**, developing **high-efficiency power electronics, PCB design, and embedded control** for crypto mining solutions, data centers and AI servers.  

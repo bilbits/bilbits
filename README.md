@@ -4,7 +4,7 @@
 - 🎓 **Electrical Engineering Graduate** (Lakehead University)  
 - 💻 Currently working as a **Junior Electronics Engineer (R&D) @ Digital Shovel**, developing **high-efficiency power electronics, PCB design, and embedded control** for crypto mining solutions, data centers and AI servers.  
 - ⚡ Passionate about **FPGA Design & ASIC Design (Verilog/VHDL, ModelSim)** and **Mixed Signal Design**.  
-- 📡 Experienced in **Power Systems, Electronics & Analog Circuit Design**:  
+- 📡 Experienced in **Power Systems, Electronics, Analog & Digital Circuit Design**  
   - Low-level C programming for ADC/DAC drivers, multiplexers, and peripheral interfaces on ARM-based microcontrollers (Toshiba, STM32)  
 - 🔬 R&D Focus:  
   - Low-latency digital hardware for networking & trading systems  
